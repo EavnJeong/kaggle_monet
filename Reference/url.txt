@@ -1,0 +1,25 @@
+
+
+2_ https://arxiv.org/abs/1611.07004v1
+
+3_ https://openaccess.thecvf.com/content_iccv_2017/html/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.html
+
+6_https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=pseudo+label&btnG=
+
+7_https://arxiv.org/abs/1706.08500
+
+8_https://paperswithcode.com/paper/coupled-generative-adversarial-networks
+
+10_Compositional GAN 
+- This approach is only limited to a fixed background and does not consider 
+   more complex interatctions in the real world
+- One key insight is to reformulate the problem of composition of two obejcts 
+  into first composing the given object images to generate the joint combined 
+  image which models the object interaction, 
+  and then decomposing the joint image back to obtain individual ones.
+
+ (a) paired: when we have access to paired examples of individual
+object images with their corresponding composed image, 
+ (b) unpaired: when we have a dataset from
+the joint distribution without being paired with any of the images 
+from the marginal distributions
